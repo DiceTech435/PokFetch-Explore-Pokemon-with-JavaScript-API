@@ -1,0 +1,3 @@
+<p><b>PokéFetch: Explore Pokémon with JavaScript & API</b></p>
+<br>
+PokéFetch is a simple yet engaging web app that uses JavaScript's fetch method to interact with the PokeAPI. Users can search for any Pokémon by name or ID and instantly get real-time information such as name, image, type, abilities, and more. This project showcases how to work with REST APIs, handle JSON data, and dynamically update the DOM using JavaScript.
